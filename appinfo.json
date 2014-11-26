@@ -1,0 +1,46 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robisodd",
+    "longName": "3DFPS v0.7b",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/brick.png",
+                "name": "WALL_BRICK",
+                "type": "png"
+            },
+            {
+                "file": "images/fifty.png",
+                "name": "WALL_FIFTY",
+                "type": "png"
+            },
+            {
+                "file": "images/circle.png",
+                "name": "WALL_CIRCLE",
+                "type": "png"
+            },
+            {
+                "file": "images/3DICON.png",
+                "menuIcon": true,
+                "name": "ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/brick-32.png",
+                "name": "WALL_BRICK32",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "3DFPS v0.7b",
+    "uuid": "529a7262-efdb-48d4-80d4-da14963099b9",
+    "versionCode": 1,
+    "versionLabel": "0.7",
+    "watchapp": {
+        "watchface": false
+    }
+}
